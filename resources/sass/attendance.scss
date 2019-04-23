@@ -1,0 +1,17 @@
+.select_month {
+  max-width: 300px;
+}
+.select_month {
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.employee-section {
+  position: relative;
+  width: 100%;
+  .new-user {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
